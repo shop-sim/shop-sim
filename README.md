@@ -1,6 +1,6 @@
 # ShopSim
 
-This code is a customer simulation created using Pygame library. The simulation consists of a group of customers who move towards a product in the market. The objective of the simulation is to test the customer flocking psychology towards 3 different products based on different parameters (pricing, shelving, and packaging quality). The simulation records data and statistics that can be used to analyze the behavior of customers.
+This code is a customer simulation created using Pygame library. The objective of the simulation is to test the customer flocking psychology towards 3 of the same products, each with different parameters (pricing, shelving, and packaging quality). Flocking behavior is implemented to observe the effects of customer herd behavior (how one customer may shift to another group simply because there are more customers there). The simulation records data and statistics that can be used to analyze the behavior of customers.
 
 ## Libraries used
 - Pygame
