@@ -1,4 +1,4 @@
-# Customer Simulation ReadMe
+# ShopSim
 
 This code is a customer simulation created using Pygame library. The simulation consists of a group of customers who move towards a product in the market. The objective of the simulation is to test the customer flocking psychology towards the product based on different parameters. The simulation records data and statistics that can be used to analyze the behavior of customers.
 
